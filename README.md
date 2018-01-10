@@ -2,6 +2,7 @@
 linq via csharp download
 
 linq via csharp download can export Dixin's [Expert Functional Programming and LINQ via C#](https://weblogs.asp.net/dixin/linq-via-csharp) book.
+
 I convert it from https://github.com/Dixin/CodeSnippets/tree/master/Dixin.Office.HtmlToWord.
 
 ## Requirement
@@ -10,4 +11,5 @@ I convert it from https://github.com/Dixin/CodeSnippets/tree/master/Dixin.Office
 - office word 2016 chs
 
 Thanks for Dixin.
+
 He write the Excellent Book [Expert Functional Programming and LINQ via C#](https://weblogs.asp.net/dixin/linq-via-csharp)
